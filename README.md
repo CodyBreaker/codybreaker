@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Cody Breaker a student at the TU Delft.
 <!--
 **CodyBreaker/codybreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
